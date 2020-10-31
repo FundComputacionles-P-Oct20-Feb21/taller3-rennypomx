@@ -1,0 +1,8 @@
+1. Inicio.
+2. Se solicita ingresar la edad del usuario.
+3. Se solicita ingresar el costo del kilovatio/hora.
+4. Se solicita ingresar el número de kilovatios consumidos en el mes.
+5. Se multipica el costo y el numero de Kilovatios consumidos en el mes.
+6. Se calcula el 10% y se resta al valor total de la planilla siempre y cuando el usuario tenga más de 65 años de edad.
+7. Se presenta el valor a cancelar de la planilla de luz.
+8. Fin.

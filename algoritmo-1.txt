@@ -1,1 +1,7 @@
-Resolucion de ejecicio 1
+1. Inicio.
+2.Se pide el valor de la base del triangulo.
+3.Se pide el valor de la altura del triangulo.
+4.Se multiplica los valores de la base por la altura
+5.Se divide el valor obtenido para 2
+6.Se muestra el valor del area de un triangulo
+7. Fin

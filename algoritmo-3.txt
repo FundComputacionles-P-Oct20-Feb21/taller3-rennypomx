@@ -1,0 +1,5 @@
+1. Inicio.
+2.Se solicita ingresar un numero en 2 y 6.
+3.Se multiplica el valor ingresado por los numeros del 1 hasta el 12.
+4.Se muestra todos los valores obtenidos.
+5. Fin.

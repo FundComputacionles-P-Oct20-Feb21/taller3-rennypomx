@@ -1,1 +1,10 @@
-algoritmo-
+1. Inicio.
+2. Se solicita ingresar la edad del usuario.
+3. Se pide el valor de netflix.
+4. Se pide el valor de youtube premium.
+5. Se pide el valor de dropbox.
+6. Se pide el valor de spotify.
+7. Se suman los valores de todos los servivios digitales.
+8. Se calcula el 20% y se le resta al total de la suma solo si el usuario tiene menos de 30 años de edad.
+9. Se presenta el valor total a pagar mensual de servicios digitales de una persona.
+10. Fin.

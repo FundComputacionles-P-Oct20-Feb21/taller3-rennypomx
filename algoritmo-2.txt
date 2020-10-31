@@ -1,0 +1,7 @@
+1. Inicio
+2.Se pide el valor de gastos del primer hijo.
+3.Se pide el valor de gastos del segundo hijo.
+4.Se pide el valor de gastos del tercer hijo.
+5.Se suma todos los valores obtenidos.
+6.Se muestra el total de gastos de los hijos.
+7. Fin
